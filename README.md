@@ -14,6 +14,8 @@ LVDT kit, Multimeter
 LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 ## CIRCUIT DIAGRAM:
+<img width="500" height="400" alt="Screenshot 2025-11-11 083926" src="https://github.com/user-attachments/assets/fe1777ab-7659-4a5d-842d-ae6325ba4f12" />
+
 
 ## PROCEDURE: 
 
@@ -24,9 +26,20 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-## OBSERVATION TABLE
+
+## OBSERVATION TABLE:
+<img width="700" height="400" alt="Screenshot 2025-11-11 083926" src="https://github.com/user-attachments/assets/a1079c0f-2684-4bb0-89f5-c7420c4e7525" />
+
+## MODEL GRAPH:
+<img width="500" height="300" alt="Screenshot 2025-11-11 083926" src="https://github.com/user-attachments/assets/0730322d-d7d2-48fc-a796-93bc5a7e6469" />
+<img width="500" height="300" alt="Screenshot 2025-11-11 083926" src="https://github.com/user-attachments/assets/1c536236-8ac0-4300-8518-69b80706faae" />
+
+## CALCULATION:
+<img width="500" height="400" alt="Screenshot 2025-11-11 083926" src="https://github.com/user-attachments/assets/08b75845-c4b6-4fda-a7c7-af221eec960b" />
 
 
+
+## OUTPUT:
 <img width="700" height="400" alt="Screenshot 2025-11-11 083926" src="https://github.com/user-attachments/assets/196fd897-dd47-45eb-a503-807fa9f905b9" />
 <img width="700" height="400" alt="Screenshot 2025-11-11 083907" src="https://github.com/user-attachments/assets/90809a9b-4c79-48ed-b725-136c443e3e8c" />
 
